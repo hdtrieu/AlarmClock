@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/divider.xml" value="0.2155" />
+        <entry key="app/src/main/res/drawable/ic_alarm_white.xml" value="0.2155" />
+        <entry key="app/src/main/res/layout/activity_add_alarm.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_clock.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_edit_alarm.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_landing_page.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/activity_select_test_activivy.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/alarm_main_fragment.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/alarm_row.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_add_edit_alarm.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/layout/fragment_alarm_landing_page.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/menu/edit_alarm_menu.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
